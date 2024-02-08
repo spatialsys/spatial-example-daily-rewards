@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8702d6e94b9c944bfb1ab6ed04d0b7b7, type: 3}
+  m_Name: RewardDataGroup_WeeklyMission
+  m_EditorClassIdentifier: 
+  rewardType: 3
+  rewards:
+  - {fileID: 11400000, guid: 11e4897945ebf43faad9fb5fdfdaeccc, type: 2}
+  - {fileID: 11400000, guid: 4a11bde0ce44048a2bb48f6f7b1bae50, type: 2}
+  - {fileID: 11400000, guid: 1aec3f6c2d6b04b8da2e15badf374d2a, type: 2}
+  - {fileID: 11400000, guid: a2095a1862e2e41f6a4f57f6629001d4, type: 2}
+  - {fileID: 11400000, guid: d621d0d6214b34998a4b13681208106b, type: 2}

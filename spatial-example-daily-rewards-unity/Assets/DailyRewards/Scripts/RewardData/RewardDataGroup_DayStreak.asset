@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8702d6e94b9c944bfb1ab6ed04d0b7b7, type: 3}
+  m_Name: RewardDataGroup_DayStreak
+  m_EditorClassIdentifier: 
+  groupName: Daily Streak
+  rewardType: 1
+  rewards:
+  - {fileID: 11400000, guid: 14cf424b75f4447fb92177ae2e0e4e61, type: 2}
+  - {fileID: 11400000, guid: 46983e58e07e6489295492e737d58b53, type: 2}
+  - {fileID: 11400000, guid: a33ffa488459945b9aaedd4caf46d1f1, type: 2}
+  - {fileID: 11400000, guid: ed8fc15869eb44c679d9b189ada25943, type: 2}
+  - {fileID: 11400000, guid: ed0369d5315ea4aaba49843daf748b4c, type: 2}
+  - {fileID: 11400000, guid: 4f04239f8972949f3a2653cd6c14ad42, type: 2}
+  - {fileID: 11400000, guid: a6c115243defe430c82bcc6753f52337, type: 2}
+  rewardsClaimed: 00000000000000
+  completeReward: {fileID: 0}
+  completeRewardClaimed: 0
